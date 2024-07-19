@@ -1,0 +1,21 @@
+{
+  "name": "main-probrovova-theme",
+  "displayName": "main PROBROVOVA Theme",
+  "description": "Тема созданная разработчиком main PROBROVOVA",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.91.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "mP Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/mP Theme-color-theme.json"
+      }
+    ]
+  }
+}
