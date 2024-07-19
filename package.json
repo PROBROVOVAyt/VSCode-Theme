@@ -2,7 +2,23 @@
   "name": "main-probrovova-theme",
   "displayName": "main PROBROVOVA Theme",
   "description": "Тема созданная разработчиком main PROBROVOVA",
-  "version": "0.0.1",
+  "version": "1.0.0",
+  "publisher": "main PROBROVOVA",
+  "icon": "logo.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PROBROVOVAyt/VSCode-Theme"
+  },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "mp",
+    "mp theme",
+    "main probrovova theme",
+    "main probrovova",
+    "probrovova",
+    "probrovovayt"
+  ],
   "engines": {
     "vscode": "^1.91.0"
   },
